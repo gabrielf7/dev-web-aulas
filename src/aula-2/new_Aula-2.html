@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- META -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- LINK -->
+    <link rel="stylesheet" href="./new_Aula-2.css">
+
+    <!-- SCRIPTS -->
+    <script src="new_Aula-2-1.js"></script>
+
+    <title>Aula-2</title>
+  </head>
+  <body>
+    <div>
+      <h1>Cadastro de Hospede</h1>
+
+      <form onsubmit="return validarForm()" method="POST">
+        <h1>C/T Hospede</h1>
+
+        <label>Nome</label><br/>
+        <div class="form-my-group">
+          <input type="text" id="name_hosp" name="name_hosp" placeholder="Digite o seu nome completo...">
+          <!-- validar = js or final da tag input inserir 'required' -->
+
+        </div>
+
+        <label>CPF</label><br/>
+        <div class="form-my-group">
+          <input type="text" id="cpf_hosp" name="cpf_hosp" min=11 max=11 placeholder="Digite seu CPF...">
+
+        </div>
+
+        <label>Descrição</label><br/>
+        <div class="form-my-group">
+          <textarea type="text" id="descricao_hosp" name="descricao_hosp" cols="30" rows="4" placeholder="Escreva sobre você..."></textarea>
+
+        </div>
+
+        <button class="my-button" type="submit">Enviar</button>
+
+      </form>
+
+    </div>
+
+  </body>
+
+</html>

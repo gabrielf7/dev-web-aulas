@@ -1,0 +1,17 @@
+{
+  "name": "mydb_atti1-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss-i": "sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compile styles/scss:styles/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}

@@ -1,0 +1,33 @@
+body {
+  background-color: #1D2731;
+  color:  #fff;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+input, textarea {
+  font-size: 20px;
+}
+
+.form-my-group {
+  margin-top: 8px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.my-button {
+  float: right;
+  padding: 10px;
+  background-color:  #710000;
+  color: #fff;
+}
+
+.my-button:hover {
+  background-color: #f4e409;
+  color: #710000;
+}
