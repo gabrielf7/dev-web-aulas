@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://nodejs.org/en/download/">:penguin: Git</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.apachefriends.org/index.html">:elephant:>XAMPP<:penguin:</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org/en/download/">:leopard: Javascript</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/en/download/">:leopard: Javascript</a>
 </p>
 
 ### Create by 
