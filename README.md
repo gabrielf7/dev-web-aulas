@@ -3,7 +3,7 @@
   
   <img alt="Codigo Funcionando" src="https://github.com/gabrielf7/dev-web-aulas/blob/master/funcionou.gif" >
   
-  <p>"Não há alegria maior do que ver seu código compilando (as 3 da manhã). - Anônimo"</p>
+  <p>"Não há alegria maior do que ver seu código compilando (as 3 da manhã). - <a href="https://clubedosgeeks.com.br/programacao/10-gifs-que-retratam-a-vida-de-um-programador">Anônimo</a>"</p>
 </div>
 
 ### Tecnologias
