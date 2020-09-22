@@ -1,5 +1,5 @@
 <div align="center">
-  <h6>DevWeb - Tentando evoluir na Web</h6>
+  <h3>DevWeb - Tentando evoluir na Web</h3>
   
   <img alt="Codigo Funcionando" src="https://github.com/gabrielf7/dev-web-aulas/blob/master/funcionou.gif" >
   
@@ -14,7 +14,7 @@
   <a href="https://nodejs.org/en/download/">:leopard: Javascript</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## Create by 
+### Create by 
 
 > [@gabrielf7](https://github.com/gabrielf7)
 
