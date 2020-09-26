@@ -17,25 +17,24 @@
     <div>
       <h1>Cadastro de Hospede</h1>
 
-      <form onsubmit="return validarForm()" method="POST">
+      <form action="./aula-2-1/new_register.php" onsubmit="return validarForm()" method="POST">
         <h1>C/T Hospede</h1>
 
         <label>Nome</label><br/>
         <div class="form-my-group">
-          <input type="text" id="name_hosp" name="name_hosp" placeholder="Digite o seu nome completo...">
-          <!-- validar = js or final da tag input inserir 'required' -->
+          <input type="text" id="name_register" name="name_register" placeholder="Digite o seu nome completo..." required>
 
         </div>
 
         <label>CPF</label><br/>
         <div class="form-my-group">
-          <input type="text" id="cpf_hosp" name="cpf_hosp" min=11 max=11 placeholder="Digite seu CPF...">
+          <input type="text" id="cpf_register" name="cpf_register" placeholder="Digite seu CPF..." required>
 
         </div>
 
         <label>Descrição</label><br/>
         <div class="form-my-group">
-          <textarea type="text" id="descricao_hosp" name="descricao_hosp" cols="30" rows="4" placeholder="Escreva sobre você..."></textarea>
+          <textarea type="text" id="descricao_register" name="descricao_register" cols="30" rows="4" placeholder="Escreva sobre você..." required></textarea>
 
         </div>
 

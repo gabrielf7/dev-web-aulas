@@ -4,7 +4,7 @@ function validarForm() {
   var descricao = document.getElementById('descricao_hosp').value;
 
   if(nome == '' || cpf == '' || descricao == '') {
-    alert('Preencha todos os CPF');
+    // alert('Preencha todos os CPF');
   }else{
     alert('Concluído com sucesso')
   }
